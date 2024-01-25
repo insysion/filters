@@ -1,4 +1,1 @@
-|http://facebook.com
-|http://www.facebook.com
-|https://facebook.com
-|https://www.facebook.com
+||facebook.com
